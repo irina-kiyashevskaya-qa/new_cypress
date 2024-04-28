@@ -1,3 +1,5 @@
+// конфиг самого cypress
+
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
@@ -8,5 +10,8 @@ module.exports = defineConfig({
     viewportHeight: 1080,
     viewportWidth: 1920,
     blockHosts: ["*mc.yandex.ru"],
+    baseUrl:"https://login.qa.studio"
   },
 });
+
+// Все параметры конфига: https://docs.cypress.io/guides/references/configuration
