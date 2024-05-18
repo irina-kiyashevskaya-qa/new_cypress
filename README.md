@@ -23,9 +23,7 @@
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/hooks.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-> Да, публиковать логины и пароли это плохая практика, но это публичный тренировочный сайт, не имеющий реальной аутинтефикации
-
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/data.png)
+![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
 
 4. Для каждой страницы есть отдельный файл с её локатарами
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
