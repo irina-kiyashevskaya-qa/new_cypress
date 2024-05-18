@@ -24,7 +24,7 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_cli.png)
 
 
-## Запуск через Cypress UI
+## Локальный запуск через Cypress UI
 1. Скачать проект и открыть в терминале.
 2. Перейти в директорию проекта.
 3. В терминале в папке с проектом запустить npm `install --save-dev cypress@12.7.0`
