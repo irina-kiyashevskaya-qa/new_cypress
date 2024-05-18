@@ -25,7 +25,7 @@
 3. Переменные данные для авторизации вынесены в отдельный файл
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
 
-4. Для каждой страницы есть отдельный файл с её локатарами
+4. Каждая страница описана в виде локаторов
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
 
 ## Локальный запуск тестов (из терминала)
