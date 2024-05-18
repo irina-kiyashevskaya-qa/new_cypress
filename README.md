@@ -29,8 +29,8 @@
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
 
 ## Локальный запуск тестов (из терминала)
-1. Скачать проект и открыть в терминале.
-2. Перейти в директорию проекта.
+1. Скачать проект
+2. Перейти в терминале в директорию проекта
 2. Выполнить команду:
 ```
 npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
