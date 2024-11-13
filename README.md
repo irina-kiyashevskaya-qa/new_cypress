@@ -55,3 +55,12 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ## Автор
 
 Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+6. Выбрать в Cypress UI E2E тестирование и браузер Google Chrome
+7. Выбрать спеку lesson_locators
+
+Ожидаемый результат: получим отчет о прохождении тестов.
+![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_UI.png)
+
+
+## Автор
+Ирина Кияшевская ([@kiyashevskaya_irina](https://t.me/kiyashevskaya_irina))
